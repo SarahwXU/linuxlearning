@@ -18,6 +18,7 @@ NM = len(LM);
 ldcut = [None] * ND;
 lmcut = [None] * NM;
 
+# search directory
 lsearch = os.listdir('/home/ubuntu/Documents/watchff');
 jd = 0;
 jm = 0;
